@@ -55,6 +55,7 @@ $(function () {
   // current hour in 24-hour time?
   //
   var currentHour = dayjs().format("H");
+  currentHour = 13
   for (const currentTimeBlock of containerEl.children(".time-block")) {
     var currentEl = $(currentTimeBlock);
     var timeDiff = currentEl.attr('id').split("-")[1] - currentHour;
