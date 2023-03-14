@@ -2,7 +2,7 @@
 
 ## Description
 
-This website was built from scratch to pratice and demonstrate understanding of JavaScript and DOM manipulation. We were tasked with creating an interactive quiz game that would present the user with a series of coding related questions over a set period of time, with a timer indicating the time remaining. Wrong questions should reduce the amount of remaining time, and correct answers should increase the score. When time is finished, the user should be presented with the final score, and be give the opportunity to add their score and initials to the leaderboard of top scores in the past. Top scores should persist through reloads.
+This website can be used as a simple schedule tracker for a typical work day. Events and tasks can be added to each line, and upon hitting the save icon, the event will be written to local memory, allowing the user to leave the page and come back to their same task items. This project was built with existing HMTL and CSS, and is meant to demonstrate an understanding of Third-Party APIs and DOM manipulation.
 
 ## User Story
 
@@ -48,7 +48,9 @@ This website was built from scratch to pratice and demonstrate understanding of 
 
 ## Demonstration
 
-Website deployed at eeast.github.io/CH5-WorkDayScheduler/
+Website deployed at [eeast.github.io/CH5-WorkDayScheduler/](https://eeast.github.io/CH5-WorkDayScheduler/)
+
+![1678759755989](image/README/1678759755989.png)
 
 ## License
 
